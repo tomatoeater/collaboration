@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-    //to do
+    int a,b;
+    cin>> a>> b;
 }
